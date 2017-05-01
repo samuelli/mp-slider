@@ -16,6 +16,7 @@
         "type": "git",
         "url": "https://github.com/mpachnis/mp-slider.git"
     },
+    "main": "mp-slider.html",
     "dependencies": {
         "polymer": "Polymer/polymer#^1.6.0"
     },
